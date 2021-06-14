@@ -15,6 +15,6 @@ Para chegarmos nesse resultado estudamos os seguintes tópicos:
 ![HomePage](https://user-images.githubusercontent.com/69418670/121911124-d8289180-cd05-11eb-8d2c-85efce610ddc.png)
 
 # Tecnologias utilizadas
-- HTML / CSS 
+- HTML / CSS / JS
 - ReactJS
 
